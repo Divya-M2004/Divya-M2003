@@ -1,2 +1,2 @@
-# Divya-M2003
+# Codsoft
 Codsoft internship projects
